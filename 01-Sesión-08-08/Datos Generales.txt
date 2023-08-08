@@ -1,0 +1,25 @@
+Parcial 70%
+Trabajos 15%
+Laboratorio 10%
+Auto - Coe: 5%
+
+===========
+Medios de comunicación
+----------------------
+Moodle
+jesus.gonzalez@corhuila.edu.co
+
+Medios de entrega de actividades
+--------------------------------
+Moodle y cumplimiento con el tiempo estipulado.
+
+
+Medios de publicación oficial de actividades
+---------------------------------------------
+Moodle
+
+
+Medios para compartir material de apoyo, documento de la actividad o ejemplos
+--------------------------------------------------------
+Moodle
+github: https://github.com/code-corhuila/analisis-algoritmos-2023-b.git
