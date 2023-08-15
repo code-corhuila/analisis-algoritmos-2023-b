@@ -34,6 +34,18 @@ public class Ejemplo1 {
                 n3 = x.nextDouble();
                 if(n3 == 5){
                     System.out.println("Recibe bonificación de 0.3");
+                }else{
+                    System.out.print("Digite la nota 4: ");
+                    n4 = x.nextDouble();
+                    if(n4 == 5){
+                        System.out.println("Recibe bonificación de 0.3");
+                    }else{
+                        System.out.print("Digite la nota 5: ");
+                        n5 = x.nextDouble();
+                        if(n5 == 5){
+                            System.out.println("Recibe bonificación de 0.3");
+                        }
+                    }
                 }
             }
         }

@@ -1,0 +1,44 @@
+Lenguaje de programación Operaciones: 
+	Lógicas [not and or]
+	Aritméticas [^ * / + - %]
+	Relacionales [< > <= >= != ==]
+IDE: Entorno integrado de desarrollo.
+	Netbeans(java)
+Editores de texto: 
+	Notepad ++
+	
+Buscar: lógica proposiciones simple
+
+	variables costantes y dinámicas.
+	formulación simple.
+	
+
+Tabla de la verdad?
+	O[o]
+	T or T = T
+	T or F = T
+	F or T = T
+	F or F = F
+	
+	(Se sabe que el estudiante tiene 4 trabajos y un parcial)Si aprueba al menos una actividad en el corte con 5.0, al final final del corte se le bonifica 0.3 décimas.
+	
+====================================
+1.	Se dispone de 1'000.000(P) de pesos el cual se deposita en una entidad financiera que le pagará un interés mensual del 2.5% (i) sobre la cantidad inicial acumulada cada mes. ¿Cuánto se tendrá al final de 1 año(n-en meses)?
+
+-	Aplicando la fórmula F = P * ( 1+i )^n
+
+2.	Calcular el número de pulsaciones que una persona debe tener por cada 10 segundos de ejercicio, si la fórmula es:
+			num. Pulsaciones = (220 - edad)/10
+
+3.	Calcular el nuevo salario de un obrero si obtuvo un incremento del 25% sobre su salario anterior.
+
+4.	En un hospital existen tres áreas: Ginecología, Pediatría, Traumatología. El presupuesto anual del hospital se reparte conforme a la sig. tabla:
+	
+			Área			Porcentaje del presupuesto
+			Ginecología			40%
+			Traumatología		30%
+			Pediatría			30%
+	
+-	Obtener la cantidad de dinero que recibirá cada área, para cualquier monto presupuestal.
+
+	
