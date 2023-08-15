@@ -22,4 +22,19 @@ Moodle
 Medios para compartir material de apoyo, documento de la actividad o ejemplos
 --------------------------------------------------------
 Moodle
-github: https://github.com/code-corhuila/analisis-algoritmos-2023-b.git
+github: https://github.com/code-corhuila/analisis-algoritmos-2023-b
+
+
+===================================================================
+Lenguaje de programación a trabajar
+----------------------------------
+JAVA
+Versión: (8-11-17)  => JDK 17
+https://jdk.java.net/archive/
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+
+IDE: 
+NetBeans ***** Sugerido.
+Intellij IDEA
+Visual Studio Code
+Eclipse
