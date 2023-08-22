@@ -1,0 +1,13 @@
+HALLAR EL AREA DE: 
+
+1.1.12.	Un triángulo.
+1.1.13.	Un rectángulo.
+1.1.14.	Una circunferencia.
+1.1.15.	Un trapecio.
+1.1.16.	Un rombo
+-	Área rombo = diagonal mayor * diagonal menor / 2
+1.1.17.	Un cuadrado
+-	Área cuadrado = base * altura; 
+
+
+Utilizar casos y validar datos.
