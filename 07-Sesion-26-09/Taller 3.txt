@@ -1,0 +1,42 @@
+Tres amigos, Juan, María y Carlos, están discutiendo sobre sus mascotas. Cada uno tiene una mascota diferente: un perro, un gato y un pez. Utiliza la información proporcionada a continuación para determinar qué amigo tiene qué mascota.
+
+Juan no tiene un perro ni un gato.
+María no tiene un gato.
+Carlos no tiene un pez.
+Proposiciones en la ventana de comando:
+
+Vamos a definir tres proposiciones para representar las mascotas de los amigos:
+
+Juan tiene un pez: P_J = True
+María tiene un perro: P_M = True
+Carlos tiene un gato: P_C = True
+
+## Luego, podemos expresar las restricciones como se indicó anteriormente:
+
+# Juan no tiene un perro ni un gato:
+P_J = True
+P_M = False
+P_C = False
+
+Esto se traduce en la siguiente fórmula lógica:
+¬(P_J ∧ (P_M ∧ P_C))
+
+Esto significa que Juan no tiene un perro (¬P_J) y tampoco un gato (¬(P_M ∧ P_C)).
+
+# María no tiene un gato:
+P_M = True
+P_C = False
+
+Esto se traduce en la siguiente fórmula lógica:
+¬(P_M ∨ P_C)
+
+Esto significa que María no tiene un gato (¬P_C) o no tiene un gato (¬P_M).
+
+# Carlos no tiene un pez:
+P_C = True
+P_J = False
+
+Esto se traduce en la siguiente fórmula lógica:
+¬(P_C ∨ P_J)
+
+Esto significa que Carlos no tiene un pez (¬P_J) o no tiene un pez (¬P_C).
