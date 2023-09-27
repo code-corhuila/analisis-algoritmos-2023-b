@@ -9,7 +9,7 @@ public class Ejemplo1{
         Double n4;
         Double n5;
 
-        System.out.print("Digite la nota 1: ");
-        n1 = scanner.nextDouble("Digite la nota 1: ");
+        System.out.print("");
+        n1 = scanner.nextDouble();
     }
 }
